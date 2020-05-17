@@ -13,3 +13,6 @@ Welcome to my repository that contains that contains the materials for the cours
 5. Statistics
 6. Exploratory Data Analysis
 
+## This is a test
+I have added new stuff
+
